@@ -15,7 +15,7 @@
         />
 
         <div class="display-1 font-weight-bold mb-3 mt-3">
-            Object Detection Tool
+            Object Detection Application
         </div>        
       </div>
     </v-app-bar>
