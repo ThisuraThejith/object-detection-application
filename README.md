@@ -22,6 +22,7 @@ npm run lint
 ```
 
 ### Link to the hosted application
-
+```
 This application has been hosted using google firebase. You can find the link to the google firebase hosted app [here](https://choosealicense.com/licenses/mit/).
+```
 
