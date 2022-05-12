@@ -23,6 +23,8 @@ npm run lint
 
 ### Link to the hosted application
 
-This application has been hosted using google firebase. You can find the link to the google firebase hosted app [here](https://choosealicense.com/licenses/mit/).
+This application has been hosted using google firebase. You can find the links to the google firebase hosted app below.
+[link1](https://object-detection-applica-9aea5.web.app/)
+[link2](https://object-detection-applica-9aea5.firebaseapp.com/)
 
 
