@@ -46,6 +46,7 @@ import ApiService from '../services/ApiService';
       selectFile(file) {
         this.currentFile = file;
       },
+      // POST the image to the API and get the API response
       postImage() {
         if (this.currentFile) {
           this.loading = true

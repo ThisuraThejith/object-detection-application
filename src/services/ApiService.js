@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const apiUrl = 'https://europe-west1-promiseq-production2.cloudfunctions.net';
 
-// Class to call the API
+// Service to call the API
 class ApiService {
   upload(file) {
     let formData = new FormData();
