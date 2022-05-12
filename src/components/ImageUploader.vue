@@ -4,9 +4,9 @@
       <v-flex xs3>
         <v-file-input
           accept="image/png, image/jpeg"
-          placeholder="Pick an avatar"
+          placeholder="Pick an image"
           prepend-icon="mdi-camera"
-          label="Avatar"
+          label="Image"
           @change="selectFile"
         ></v-file-input>
       </v-flex>
