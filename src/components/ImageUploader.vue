@@ -13,7 +13,7 @@
       <v-flex xs1>
         <v-btn
           :loading="loading"
-          :disabled="loading"
+          :disabled="loading || !this.currentFile"
           color="primary"
           class="ma-2 white--text"
           @click="postImage"
